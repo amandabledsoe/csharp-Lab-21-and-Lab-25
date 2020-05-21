@@ -1,0 +1,38 @@
+﻿<html>
+<head>
+
+</head>
+<body>
+    <form action="ShowMovieResultSummary" method="post">
+
+        <p>Movie ID:</p>
+        <input type="number" name="ID" />
+        <br />
+        <br />
+        <p>Movie Title:</p>
+        <input type="text" name="Title" maxlength="50" />
+        <br />
+        <br />
+        <p>Movie Genre:</p>
+        <input type="radio" name="Genre" value="Drama" /> DRAMA   
+        <input type="radio" name="Genre" value="Comedy" /> COMEDY   
+        <input type="radio" name="Genre" value="Suspense/Thriller" /> SUSPENSE/THRILLER
+        <input type="radio" name="Genre" value="Action" /> ACTION
+        <input type="radio" name="Genre" value="Sci-Fi" /> SCI-FI
+        <br />
+        <br />
+        <p>Movie Year:</p>
+        <input type="number" name="Year" min="1880" max="2020" />
+        <br />
+        <br />
+        <p>Movie Actors:</p>
+        <input type="text" name="Actors" />
+        <br />
+        <br />
+        <p>Movie Directors:</p>
+        <input type="text" name="Directors" />
+        <input type="submit" />
+
+    </form>
+</body>
+</html>

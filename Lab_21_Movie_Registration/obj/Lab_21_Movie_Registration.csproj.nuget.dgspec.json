@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\xando\\OneDrive\\Desktop\\ALL GRAND CIRCUS\\Grand Circus Projects\\Bootcamp Projects\\LABS\\ASP.NET\\Lab_21_Movie_Registration\\Lab_21_Movie_Registration\\Lab_21_Movie_Registration.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\xando\\OneDrive\\Desktop\\ALL GRAND CIRCUS\\Grand Circus Projects\\Bootcamp Projects\\LABS\\ASP.NET\\Lab_21_Movie_Registration\\Lab_21_Movie_Registration\\Lab_21_Movie_Registration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\xando\\OneDrive\\Desktop\\ALL GRAND CIRCUS\\Grand Circus Projects\\Bootcamp Projects\\LABS\\ASP.NET\\Lab_21_Movie_Registration\\Lab_21_Movie_Registration\\Lab_21_Movie_Registration.csproj",
+        "projectName": "Lab_21_Movie_Registration",
+        "projectPath": "C:\\Users\\xando\\OneDrive\\Desktop\\ALL GRAND CIRCUS\\Grand Circus Projects\\Bootcamp Projects\\LABS\\ASP.NET\\Lab_21_Movie_Registration\\Lab_21_Movie_Registration\\Lab_21_Movie_Registration.csproj",
+        "packagesPath": "C:\\Users\\xando\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xando\\OneDrive\\Desktop\\ALL GRAND CIRCUS\\Grand Circus Projects\\Bootcamp Projects\\LABS\\ASP.NET\\Lab_21_Movie_Registration\\Lab_21_Movie_Registration\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\xando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
