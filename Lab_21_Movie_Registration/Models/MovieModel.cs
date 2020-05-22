@@ -11,7 +11,7 @@ namespace Lab_21_Movie_Registration.Models
         public int ID { get; set; }
         public string Title { get; set; }
         public string Genre { get; set; }
-        public int Year { get; set; }
+        public DateTime Year { get; set; }
         public string Actors { get; set; }
         public string Directors { get; set; }
 
@@ -20,7 +20,7 @@ namespace Lab_21_Movie_Registration.Models
 
         }
 
-        public MovieModel(int ID, string Title, string Genre, int Year, string Actors, string Directors)
+        public MovieModel(int ID, string Title, string Genre, DateTime Year, string Actors, string Directors)
         {
             this.ID = ID;
             this.Title = Title;

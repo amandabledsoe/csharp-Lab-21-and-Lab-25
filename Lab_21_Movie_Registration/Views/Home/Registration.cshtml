@@ -14,15 +14,15 @@
         <br />
         <br />
         <p>Movie Genre:</p>
-        <input type="radio" name="Genre" value="Drama" /> DRAMA   
-        <input type="radio" name="Genre" value="Comedy" /> COMEDY   
+        <input type="radio" name="Genre" value="Drama" /> DRAMA
+        <input type="radio" name="Genre" value="Comedy" /> COMEDY
         <input type="radio" name="Genre" value="Suspense/Thriller" /> SUSPENSE/THRILLER
         <input type="radio" name="Genre" value="Action" /> ACTION
         <input type="radio" name="Genre" value="Sci-Fi" /> SCI-FI
         <br />
         <br />
         <p>Movie Year:</p>
-        <input type="number" name="Year" min="1880" max="2020" />
+        <input type="date" name="Year" min="1880-01-01" max="@DateTime.Now.ToString("yyyy-MM-dd")" />
         <br />
         <br />
         <p>Movie Actors:</p>

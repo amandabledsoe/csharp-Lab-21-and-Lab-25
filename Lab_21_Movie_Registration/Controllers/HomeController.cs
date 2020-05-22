@@ -28,7 +28,7 @@ namespace Lab_21_Movie_Registration.Controllers
             return View();
         }
 
-        public IActionResult GetMovieDetails()
+        public IActionResult Registration()
         {
             return View();
         }

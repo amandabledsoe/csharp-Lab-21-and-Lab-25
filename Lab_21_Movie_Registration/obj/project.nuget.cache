@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "H4feERODdzJqHJG3MWnB3wwst82U4ghS/sNLDDEy++KOc+bn5nnzxluwBbL/Rym9nYo7ndb+ZFcvoUdYM7XYCw==",
+  "dgSpecHash": "ahiEw9rrBNnq4ioe2Bx470lsdEObETQFkUg6fj0Mq/1uBRJldiV87A2bL1mXJ80Ea9uHvFIhcHiZ2YnlGbkVKA==",
   "success": true,
   "projectFilePath": "C:\\Users\\xando\\OneDrive\\Desktop\\ALL GRAND CIRCUS\\Grand Circus Projects\\Bootcamp Projects\\LABS\\ASP.NET\\Lab_21_Movie_Registration\\Lab_21_Movie_Registration\\Lab_21_Movie_Registration.csproj",
   "expectedPackageFiles": [
@@ -110,7 +110,8 @@
     "C:\\Users\\xando\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512",
     "C:\\Users\\xando\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\xando\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\xando\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\xando\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\xando\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }

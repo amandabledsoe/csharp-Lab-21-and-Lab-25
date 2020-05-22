@@ -1,3 +1,14 @@
 ﻿@model MovieModel
 
-<h3>Your Movie "@Model.Title" has been registered.</h3>
+<div class="align-content-center">
+    <h3>Your Movie "@Model.Title" has been registered.</h3>
+    <p>Here are some additional details, too:</p>
+    <br />
+    <br />
+    <p>ID: @Model.ID</p>
+    <p>Year: @Model.Year</p>
+    <p>Genre: @Model.Genre</p>
+    <p>Actors: @Model.Actors</p>
+    <p>Director: @Model.Directors</p>
+</div>
+
