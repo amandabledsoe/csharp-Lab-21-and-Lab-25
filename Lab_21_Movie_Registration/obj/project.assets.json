@@ -6077,11 +6077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xando\\OneDrive\\Desktop\\ALL GRAND CIRCUS\\Grand Circus Projects\\Bootcamp Projects\\LABS\\ASP.NET\\Lab_21_Movie_Registration\\Lab_21_Movie_Registration\\Lab_21_Movie_Registration.csproj",
+      "projectUniqueName": "C:\\Users\\xando\\OneDrive\\Desktop\\ALL GRAND CIRCUS\\Grand Circus Projects\\Bootcamp Labs & Projects\\LABS\\ASP.NET\\Lab_21_Movie_Registration\\Lab_21_Movie_Registration\\Lab_21_Movie_Registration.csproj",
       "projectName": "Lab_21_Movie_Registration",
-      "projectPath": "C:\\Users\\xando\\OneDrive\\Desktop\\ALL GRAND CIRCUS\\Grand Circus Projects\\Bootcamp Projects\\LABS\\ASP.NET\\Lab_21_Movie_Registration\\Lab_21_Movie_Registration\\Lab_21_Movie_Registration.csproj",
+      "projectPath": "C:\\Users\\xando\\OneDrive\\Desktop\\ALL GRAND CIRCUS\\Grand Circus Projects\\Bootcamp Labs & Projects\\LABS\\ASP.NET\\Lab_21_Movie_Registration\\Lab_21_Movie_Registration\\Lab_21_Movie_Registration.csproj",
       "packagesPath": "C:\\Users\\xando\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xando\\OneDrive\\Desktop\\ALL GRAND CIRCUS\\Grand Circus Projects\\Bootcamp Projects\\LABS\\ASP.NET\\Lab_21_Movie_Registration\\Lab_21_Movie_Registration\\obj\\",
+      "outputPath": "C:\\Users\\xando\\OneDrive\\Desktop\\ALL GRAND CIRCUS\\Grand Circus Projects\\Bootcamp Labs & Projects\\LABS\\ASP.NET\\Lab_21_Movie_Registration\\Lab_21_Movie_Registration\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

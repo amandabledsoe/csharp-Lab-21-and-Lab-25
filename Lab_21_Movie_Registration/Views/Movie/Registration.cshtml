@@ -1,0 +1,49 @@
+﻿<html>
+<head>
+
+</head>
+<body>
+    <h3>Welcome To Our Movie Registration Page!</h3>
+    <h3>Please enter the details of you movie in the form below:</h3>
+    <br />
+    <form action="/Movie/ShowMovieResultSummary" method="post">
+        <div>
+            <p>Movie ID:
+            <input type="number" name="ID" min="1"/></p>
+        </div>
+        <br />
+        <div>
+            <p>Movie Title: <input type="text" name="Title" maxlength="50" /></p>
+        </div>
+        <br />
+        <p>
+            <div class="dropdown">
+                <label for="genre">Movie Genre: </label>
+                <select name="genre" id="genre">
+                    <option value="Drama">Drama</option>
+                    <option value="Comedy">Comedy</option>
+                    <option value="Suspense/Thriller">Suspense/Thriller</option>
+                    <option value="Sci-Fi">Action</option>
+                    <option value="Sci-Fi">Sci-Fi</option>
+                </select>
+            </div>
+        </p>
+        <br />
+        <div>
+            <p>Movie Year: 
+            <input type="date" name="Year" min="1880" max="@DateTime.Now.ToString("yyyy")" /></p>
+        </div>
+        <br />
+        <div>
+            <p>Movie Actors:
+            <input type="text" name="Actors" /></p>
+        </div>
+        <br />
+        <div>
+            <p>Movie Directors:
+            <input type="text" name="Directors" /></p>
+            <input type="submit" />
+        </div>
+    </form>
+</body>
+</html>

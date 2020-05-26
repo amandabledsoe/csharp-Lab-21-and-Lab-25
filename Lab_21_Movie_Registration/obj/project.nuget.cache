@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ahiEw9rrBNnq4ioe2Bx470lsdEObETQFkUg6fj0Mq/1uBRJldiV87A2bL1mXJ80Ea9uHvFIhcHiZ2YnlGbkVKA==",
+  "dgSpecHash": "O2J9+IwqCIrtnpIFKnOMj+HATrBfVAerz2nrGU4ePFKfqKM4R7p1pF/i9RJ5klUmxwpTxO7tDRGhStjYF/0etQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\xando\\OneDrive\\Desktop\\ALL GRAND CIRCUS\\Grand Circus Projects\\Bootcamp Projects\\LABS\\ASP.NET\\Lab_21_Movie_Registration\\Lab_21_Movie_Registration\\Lab_21_Movie_Registration.csproj",
+  "projectFilePath": "C:\\Users\\xando\\OneDrive\\Desktop\\ALL GRAND CIRCUS\\Grand Circus Projects\\Bootcamp Labs & Projects\\LABS\\ASP.NET\\Lab_21_Movie_Registration\\Lab_21_Movie_Registration\\Lab_21_Movie_Registration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xando\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\xando\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

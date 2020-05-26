@@ -28,21 +28,6 @@ namespace Lab_21_Movie_Registration.Controllers
             return View();
         }
 
-        public IActionResult Registration()
-        {
-            return View();
-        }
-
-        public IActionResult ShowMovieResults(MovieModel movie)
-        {
-            return View(movie);
-        }
-
-        public IActionResult ShowMovieResultSummary(MovieModel movie)
-        {
-            return View(movie);
-        }
-
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

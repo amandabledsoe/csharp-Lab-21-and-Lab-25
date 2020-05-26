@@ -1,0 +1,29 @@
+﻿@model MovieModel
+
+    <body>
+        <div>
+            <h3>List of Movies: </h3>
+        </div>
+        <br />
+        <div class="col-sm">
+            <a class="btn btn-info form-control" href="/Movie/Registration">Click Here To Add A Book</a>
+            <br/>
+            <hr/>
+        </div>
+        <div>
+            @foreach (MovieModel movie in ViewBag.Movies_List)
+            {
+                <p>Movie ID: @movie.ID</p>
+                <p><b>Movie Title: @movie.Title</b></p>
+                <p>Movie Genre: @movie.Genre</p>
+                <p>Movie Year: @movie.Year</p>
+                <p>Movie Actors: @movie.Actors</p>
+                <p>Movie Directors: @movie.Directors</p>
+                <br />
+                <hr />
+            }
+        </div>
+        <div>
+            <a class="btn btn-info form-control" href="/Movie/Registration">Click Here To Add A Book</a>
+        </div>
+    </body>
